@@ -1,0 +1,4 @@
+secrets.*
+config.*
+node_modules
+dist
